@@ -6,7 +6,7 @@ Document : https://github.com/sanjai-b-2006/CAMPUS_API_EDUCATION/blob/eae9b03911
 
 Powerpoint : https://github.com/sanjai-b-2006/CAMPUS_API_EDUCATION/blob/764a6e4688dab5c65a5db22e93e15cf0af01adc6/PPT_CAMPUS_API.pptx
 
-PDF :
+Powerpoint preview as PDF : https://github.com/sanjai-b-2006/CAMPUS_API_EDUCATION/blob/79a61e5d633f04a28259980ebe7bd052d18c22d3/PDF_CAMPUS_API.pdf
 
 ## 🚀 Features
 
