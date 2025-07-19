@@ -2,7 +2,7 @@
 
 A FastAPI-powered REST API for managing and analyzing college course and faculty data, complete with smart search, analytics, and auto-generated documentation.
 Document : DOC_CAMPUS_API.md
-Powerpoint : PPT_CAMPUS_API.PPTX
+Powerpoint : https://github.com/sanjai-b-2006/CAMPUS_API_EDUCATION/blob/764a6e4688dab5c65a5db22e93e15cf0af01adc6/PPT_CAMPUS_API.pptx
 
 ## 🚀 Features
 
