@@ -1,0 +1,1236 @@
+[
+  {
+    "id": 101,
+    "name": "Monitored composite support",
+    "code": "CS436",
+    "description": "This course covers fundamentals of step in CSE department.",
+    "credits": 2,
+    "department": "CSE",
+    "prerequisites": [
+      105,
+      119
+    ],
+    "faculty_id": 2
+  },
+  {
+    "id": 502,
+    "name": "5thgeneration knowledge user",
+    "code": "AI201",
+    "description": "This course covers fundamentals of pull in AI department.",
+    "credits": 2,
+    "department": "AI",
+    "prerequisites": [],
+    "faculty_id": 63
+  },
+  {
+    "id": 103,
+    "name": "Cross-group asynchronous framework",
+    "code": "CS438",
+    "description": "This course covers fundamentals of few in CSE department.",
+    "credits": 3,
+    "department": "CSE",
+    "prerequisites": [
+      114
+    ],
+    "faculty_id": 55
+  },
+  {
+    "id": 104,
+    "name": "Extended holistic parallelism",
+    "code": "SM323",
+    "description": "This course covers fundamentals of of in Smart Manufacturing department.",
+    "credits": 3,
+    "department": "Smart Manufacturing",
+    "prerequisites": [],
+    "faculty_id": 13
+  },
+  {
+    "id": 105,
+    "name": "Ergonomic content-based focus group",
+    "code": "AI406",
+    "description": "This course covers fundamentals of modern in AI department.",
+    "credits": 4,
+    "department": "AI",
+    "prerequisites": [
+      103,
+      103
+    ],
+    "faculty_id": 38
+  },
+  {
+    "id": 106,
+    "name": "Assimilated bifurcated benchmark",
+    "code": "CS478",
+    "description": "This course covers fundamentals of nice in CSE department.",
+    "credits": 4,
+    "department": "CSE",
+    "prerequisites": [
+      110,
+      103
+    ],
+    "faculty_id": 85
+  },
+  {
+    "id": 107,
+    "name": "Multi-channeled dedicated service-desk",
+    "code": "CS331",
+    "description": "This course covers fundamentals of song in CSE department.",
+    "credits": 3,
+    "department": "CSE",
+    "prerequisites": [],
+    "faculty_id": 54
+  },
+  {
+    "id": 108,
+    "name": "Cross-group 24/7 help-desk",
+    "code": "ME326",
+    "description": "This course covers fundamentals of still in Mechanical department.",
+    "credits": 4,
+    "department": "Mechanical",
+    "prerequisites": [
+      113,
+      113
+    ],
+    "faculty_id": 2
+  },
+  {
+    "id": 109,
+    "name": "Expanded systemic success",
+    "code": "ME265",
+    "description": "This course covers fundamentals of ten in Mechanical department.",
+    "credits": 3,
+    "department": "Mechanical",
+    "prerequisites": [
+      103,
+      105,
+      109
+    ],
+    "faculty_id": 36
+  },
+  {
+    "id": 110,
+    "name": "Networked non-volatile attitude",
+    "code": "SM409",
+    "description": "This course covers fundamentals of officer in Smart Manufacturing department.",
+    "credits": 4,
+    "department": "Smart Manufacturing",
+    "prerequisites": [],
+    "faculty_id": 32
+  },
+  {
+    "id": 111,
+    "name": "Devolved motivating solution",
+    "code": "SM130",
+    "description": "This course covers fundamentals of serious in Smart Manufacturing department.",
+    "credits": 2,
+    "department": "Smart Manufacturing",
+    "prerequisites": [
+      112
+    ],
+    "faculty_id": 100
+  },
+  {
+    "id": 112,
+    "name": "De-engineered fresh-thinking functionalities",
+    "code": "CS106",
+    "description": "This course covers fundamentals of every in CSE department.",
+    "credits": 3,
+    "department": "CSE",
+    "prerequisites": [
+      120,
+      105
+    ],
+    "faculty_id": 34
+  },
+  {
+    "id": 113,
+    "name": "Proactive well-modulated budgetary management",
+    "code": "AI264",
+    "description": "This course covers fundamentals of rate in AI department.",
+    "credits": 4,
+    "department": "AI",
+    "prerequisites": [
+      103,
+      113
+    ],
+    "faculty_id": 59
+  },
+  {
+    "id": 114,
+    "name": "Multi-channeled multi-state product",
+    "code": "EC474",
+    "description": "This course covers fundamentals of structure in ECE department.",
+    "credits": 4,
+    "department": "ECE",
+    "prerequisites": [
+      104,
+      119
+    ],
+    "faculty_id": 30
+  },
+  {
+    "id": 115,
+    "name": "Phased intermediate project",
+    "code": "AI171",
+    "description": "This course covers fundamentals of full in AI department.",
+    "credits": 3,
+    "department": "AI",
+    "prerequisites": [],
+    "faculty_id": 37
+  },
+  {
+    "id": 116,
+    "name": "Open-architected explicit model",
+    "code": "EC273",
+    "description": "This course covers fundamentals of nature in ECE department.",
+    "credits": 2,
+    "department": "ECE",
+    "prerequisites": [
+      111
+    ],
+    "faculty_id": 37
+  },
+  {
+    "id": 117,
+    "name": "Sharable object-oriented matrices",
+    "code": "ME264",
+    "description": "This course covers fundamentals of next in Mechanical department.",
+    "credits": 4,
+    "department": "Mechanical",
+    "prerequisites": [
+      101,
+      113
+    ],
+    "faculty_id": 95
+  },
+  {
+    "id": 118,
+    "name": "Pre-emptive content-based archive",
+    "code": "ME160",
+    "description": "This course covers fundamentals of role in Mechanical department.",
+    "credits": 2,
+    "department": "Mechanical",
+    "prerequisites": [
+      109,
+      103
+    ],
+    "faculty_id": 77
+  },
+  {
+    "id": 119,
+    "name": "Mandatory interactive hierarchy",
+    "code": "CS368",
+    "description": "This course covers fundamentals of various in CSE department.",
+    "credits": 3,
+    "department": "CSE",
+    "prerequisites": [
+      106,
+      105
+    ],
+    "faculty_id": 98
+  },
+  {
+    "id": 120,
+    "name": "Realigned stable access",
+    "code": "SM155",
+    "description": "This course covers fundamentals of property in Smart Manufacturing department.",
+    "credits": 4,
+    "department": "Smart Manufacturing",
+    "prerequisites": [
+      117,
+      107,
+      115
+    ],
+    "faculty_id": 99
+  },
+  {
+    "id": 121,
+    "name": "Grass-roots discrete encoding",
+    "code": "EC247",
+    "description": "This course covers fundamentals of later in ECE department.",
+    "credits": 4,
+    "department": "ECE",
+    "prerequisites": [
+      101
+    ],
+    "faculty_id": 12
+  },
+  {
+    "id": 122,
+    "name": "Versatile systemic project",
+    "code": "AI284",
+    "description": "This course covers fundamentals of high in AI department.",
+    "credits": 2,
+    "department": "AI",
+    "prerequisites": [
+      110,
+      102
+    ],
+    "faculty_id": 1
+  },
+  {
+    "id": 123,
+    "name": "Future-proofed client-server matrix",
+    "code": "ME290",
+    "description": "This course covers fundamentals of avoid in Mechanical department.",
+    "credits": 3,
+    "department": "Mechanical",
+    "prerequisites": [
+      118,
+      117,
+      117
+    ],
+    "faculty_id": 70
+  },
+  {
+    "id": 124,
+    "name": "Horizontal non-volatile ability",
+    "code": "SM254",
+    "description": "This course covers fundamentals of energy in Smart Manufacturing department.",
+    "credits": 2,
+    "department": "Smart Manufacturing",
+    "prerequisites": [
+      119,
+      114,
+      102
+    ],
+    "faculty_id": 15
+  },
+  {
+    "id": 125,
+    "name": "Universal client-server focus group",
+    "code": "CS462",
+    "description": "This course covers fundamentals of enter in CSE department.",
+    "credits": 2,
+    "department": "CSE",
+    "prerequisites": [],
+    "faculty_id": 53
+  },
+  {
+    "id": 126,
+    "name": "Inverse multi-state protocol",
+    "code": "EC397",
+    "description": "This course covers fundamentals of compare in ECE department.",
+    "credits": 3,
+    "department": "ECE",
+    "prerequisites": [
+      106
+    ],
+    "faculty_id": 8
+  },
+  {
+    "id": 127,
+    "name": "De-engineered clear-thinking interface",
+    "code": "EC232",
+    "description": "This course covers fundamentals of source in ECE department.",
+    "credits": 4,
+    "department": "ECE",
+    "prerequisites": [],
+    "faculty_id": 27
+  },
+  {
+    "id": 128,
+    "name": "Integrated fresh-thinking attitude",
+    "code": "AI361",
+    "description": "This course covers fundamentals of foreign in AI department.",
+    "credits": 4,
+    "department": "AI",
+    "prerequisites": [
+      113
+    ],
+    "faculty_id": 66
+  },
+  {
+    "id": 129,
+    "name": "Devolved eco-centric Internet solution",
+    "code": "AI160",
+    "description": "This course covers fundamentals of plan in AI department.",
+    "credits": 2,
+    "department": "AI",
+    "prerequisites": [
+      120,
+      106,
+      110
+    ],
+    "faculty_id": 62
+  },
+  {
+    "id": 130,
+    "name": "Open-source bi-directional project",
+    "code": "CS139",
+    "description": "This course covers fundamentals of get in CSE department.",
+    "credits": 3,
+    "department": "CSE",
+    "prerequisites": [],
+    "faculty_id": 32
+  },
+  {
+    "id": 131,
+    "name": "Multi-lateral coherent access",
+    "code": "EC273",
+    "description": "This course covers fundamentals of fund in ECE department.",
+    "credits": 2,
+    "department": "ECE",
+    "prerequisites": [
+      108,
+      118,
+      115
+    ],
+    "faculty_id": 100
+  },
+  {
+    "id": 132,
+    "name": "Focused national utilization",
+    "code": "SM422",
+    "description": "This course covers fundamentals of protect in Smart Manufacturing department.",
+    "credits": 3,
+    "department": "Smart Manufacturing",
+    "prerequisites": [
+      111,
+      111
+    ],
+    "faculty_id": 21
+  },
+  {
+    "id": 133,
+    "name": "Re-contextualized homogeneous productivity",
+    "code": "CS315",
+    "description": "This course covers fundamentals of western in CSE department.",
+    "credits": 2,
+    "department": "CSE",
+    "prerequisites": [
+      115,
+      101
+    ],
+    "faculty_id": 58
+  },
+  {
+    "id": 134,
+    "name": "Distributed impactful throughput",
+    "code": "ME275",
+    "description": "This course covers fundamentals of during in Mechanical department.",
+    "credits": 4,
+    "department": "Mechanical",
+    "prerequisites": [
+      120,
+      113,
+      111
+    ],
+    "faculty_id": 39
+  },
+  {
+    "id": 135,
+    "name": "Horizontal interactive success",
+    "code": "EC494",
+    "description": "This course covers fundamentals of draw in ECE department.",
+    "credits": 3,
+    "department": "ECE",
+    "prerequisites": [
+      102,
+      110
+    ],
+    "faculty_id": 68
+  },
+  {
+    "id": 136,
+    "name": "Object-based interactive matrices",
+    "code": "CS170",
+    "description": "This course covers fundamentals of social in CSE department.",
+    "credits": 3,
+    "department": "CSE",
+    "prerequisites": [
+      103,
+      110
+    ],
+    "faculty_id": 59
+  },
+  {
+    "id": 137,
+    "name": "Open-architected fault-tolerant leverage",
+    "code": "ME369",
+    "description": "This course covers fundamentals of sometimes in Mechanical department.",
+    "credits": 2,
+    "department": "Mechanical",
+    "prerequisites": [
+      110,
+      116,
+      101
+    ],
+    "faculty_id": 95
+  },
+  {
+    "id": 138,
+    "name": "Implemented mobile matrices",
+    "code": "AI193",
+    "description": "This course covers fundamentals of get in AI department.",
+    "credits": 3,
+    "department": "AI",
+    "prerequisites": [
+      105,
+      117,
+      111
+    ],
+    "faculty_id": 75
+  },
+  {
+    "id": 139,
+    "name": "Total even-keeled solution",
+    "code": "EC368",
+    "description": "This course covers fundamentals of alone in ECE department.",
+    "credits": 2,
+    "department": "ECE",
+    "prerequisites": [
+      113,
+      107,
+      102
+    ],
+    "faculty_id": 11
+  },
+  {
+    "id": 140,
+    "name": "Universal intangible hub",
+    "code": "ME233",
+    "description": "This course covers fundamentals of Democrat in Mechanical department.",
+    "credits": 2,
+    "department": "Mechanical",
+    "prerequisites": [
+      120
+    ],
+    "faculty_id": 97
+  },
+  {
+    "id": 141,
+    "name": "Networked high-level installation",
+    "code": "EC131",
+    "description": "This course covers fundamentals of country in ECE department.",
+    "credits": 4,
+    "department": "ECE",
+    "prerequisites": [],
+    "faculty_id": 82
+  },
+  {
+    "id": 142,
+    "name": "Ergonomic scalable Graphical User Interface",
+    "code": "CS316",
+    "description": "This course covers fundamentals of issue in CSE department.",
+    "credits": 2,
+    "department": "CSE",
+    "prerequisites": [
+      103
+    ],
+    "faculty_id": 79
+  },
+  {
+    "id": 143,
+    "name": "Proactive zero tolerance forecast",
+    "code": "AI102",
+    "description": "This course covers fundamentals of wife in AI department.",
+    "credits": 4,
+    "department": "AI",
+    "prerequisites": [
+      110
+    ],
+    "faculty_id": 11
+  },
+  {
+    "id": 144,
+    "name": "Digitized actuating artificial intelligence",
+    "code": "AI314",
+    "description": "This course covers fundamentals of model in AI department.",
+    "credits": 2,
+    "department": "AI",
+    "prerequisites": [
+      113,
+      111
+    ],
+    "faculty_id": 30
+  },
+  {
+    "id": 145,
+    "name": "Reduced static core",
+    "code": "EC390",
+    "description": "This course covers fundamentals of piece in ECE department.",
+    "credits": 2,
+    "department": "ECE",
+    "prerequisites": [
+      116,
+      109,
+      104
+    ],
+    "faculty_id": 99
+  },
+  {
+    "id": 146,
+    "name": "Exclusive empowering secured line",
+    "code": "CS314",
+    "description": "This course covers fundamentals of describe in CSE department.",
+    "credits": 2,
+    "department": "CSE",
+    "prerequisites": [
+      117,
+      111
+    ],
+    "faculty_id": 15
+  },
+  {
+    "id": 147,
+    "name": "Re-contextualized scalable paradigm",
+    "code": "AI438",
+    "description": "This course covers fundamentals of Mrs in AI department.",
+    "credits": 4,
+    "department": "AI",
+    "prerequisites": [],
+    "faculty_id": 98
+  },
+  {
+    "id": 148,
+    "name": "Distributed transitional frame",
+    "code": "ME334",
+    "description": "This course covers fundamentals of government in Mechanical department.",
+    "credits": 2,
+    "department": "Mechanical",
+    "prerequisites": [
+      105,
+      115
+    ],
+    "faculty_id": 70
+  },
+  {
+    "id": 149,
+    "name": "Progressive coherent functionalities",
+    "code": "ME388",
+    "description": "This course covers fundamentals of else in Mechanical department.",
+    "credits": 3,
+    "department": "Mechanical",
+    "prerequisites": [
+      119,
+      112,
+      109
+    ],
+    "faculty_id": 16
+  },
+  {
+    "id": 150,
+    "name": "Streamlined discrete archive",
+    "code": "ME268",
+    "description": "This course covers fundamentals of building in Mechanical department.",
+    "credits": 2,
+    "department": "Mechanical",
+    "prerequisites": [
+      112,
+      106,
+      112
+    ],
+    "faculty_id": 23
+  },
+  {
+    "id": 151,
+    "name": "Centralized 6thgeneration adapter",
+    "code": "ME391",
+    "description": "This course covers fundamentals of answer in Mechanical department.",
+    "credits": 4,
+    "department": "Mechanical",
+    "prerequisites": [],
+    "faculty_id": 65
+  },
+  {
+    "id": 152,
+    "name": "Synergized transitional alliance",
+    "code": "EC237",
+    "description": "This course covers fundamentals of student in ECE department.",
+    "credits": 3,
+    "department": "ECE",
+    "prerequisites": [
+      107,
+      109,
+      120
+    ],
+    "faculty_id": 9
+  },
+  {
+    "id": 153,
+    "name": "Programmable well-modulated methodology",
+    "code": "ME409",
+    "description": "This course covers fundamentals of attention in Mechanical department.",
+    "credits": 2,
+    "department": "Mechanical",
+    "prerequisites": [
+      114,
+      118,
+      118
+    ],
+    "faculty_id": 22
+  },
+  {
+    "id": 154,
+    "name": "Stand-alone static collaboration",
+    "code": "CS200",
+    "description": "This course covers fundamentals of many in CSE department.",
+    "credits": 2,
+    "department": "CSE",
+    "prerequisites": [
+      118
+    ],
+    "faculty_id": 13
+  },
+  {
+    "id": 155,
+    "name": "Down-sized well-modulated intranet",
+    "code": "ME240",
+    "description": "This course covers fundamentals of represent in Mechanical department.",
+    "credits": 2,
+    "department": "Mechanical",
+    "prerequisites": [
+      115,
+      112
+    ],
+    "faculty_id": 34
+  },
+  {
+    "id": 156,
+    "name": "Extended stable initiative",
+    "code": "EC121",
+    "description": "This course covers fundamentals of paper in ECE department.",
+    "credits": 4,
+    "department": "ECE",
+    "prerequisites": [
+      110,
+      113,
+      113
+    ],
+    "faculty_id": 65
+  },
+  {
+    "id": 157,
+    "name": "Enhanced directional portal",
+    "code": "ME465",
+    "description": "This course covers fundamentals of entire in Mechanical department.",
+    "credits": 4,
+    "department": "Mechanical",
+    "prerequisites": [
+      112
+    ],
+    "faculty_id": 29
+  },
+  {
+    "id": 158,
+    "name": "Open-architected tangible structure",
+    "code": "AI311",
+    "description": "This course covers fundamentals of write in AI department.",
+    "credits": 3,
+    "department": "AI",
+    "prerequisites": [],
+    "faculty_id": 59
+  },
+  {
+    "id": 159,
+    "name": "Compatible neutral forecast",
+    "code": "SM107",
+    "description": "This course covers fundamentals of operation in Smart Manufacturing department.",
+    "credits": 2,
+    "department": "Smart Manufacturing",
+    "prerequisites": [],
+    "faculty_id": 95
+  },
+  {
+    "id": 160,
+    "name": "Expanded zero administration extranet",
+    "code": "ME152",
+    "description": "This course covers fundamentals of accept in Mechanical department.",
+    "credits": 4,
+    "department": "Mechanical",
+    "prerequisites": [
+      106,
+      102,
+      108
+    ],
+    "faculty_id": 9
+  },
+  {
+    "id": 161,
+    "name": "User-friendly secondary solution",
+    "code": "EC114",
+    "description": "This course covers fundamentals of interest in ECE department.",
+    "credits": 4,
+    "department": "ECE",
+    "prerequisites": [
+      102
+    ],
+    "faculty_id": 92
+  },
+  {
+    "id": 162,
+    "name": "Grass-roots holistic knowledgebase",
+    "code": "EC108",
+    "description": "This course covers fundamentals of left in ECE department.",
+    "credits": 4,
+    "department": "ECE",
+    "prerequisites": [
+      107
+    ],
+    "faculty_id": 75
+  },
+  {
+    "id": 163,
+    "name": "Cross-platform content-based info-mediaries",
+    "code": "CS330",
+    "description": "This course covers fundamentals of more in CSE department.",
+    "credits": 4,
+    "department": "CSE",
+    "prerequisites": [],
+    "faculty_id": 30
+  },
+  {
+    "id": 164,
+    "name": "Up-sized motivating adapter",
+    "code": "ME361",
+    "description": "This course covers fundamentals of Mrs in Mechanical department.",
+    "credits": 2,
+    "department": "Mechanical",
+    "prerequisites": [
+      107,
+      105
+    ],
+    "faculty_id": 30
+  },
+  {
+    "id": 165,
+    "name": "Object-based transitional matrices",
+    "code": "AI404",
+    "description": "This course covers fundamentals of Congress in AI department.",
+    "credits": 3,
+    "department": "AI",
+    "prerequisites": [],
+    "faculty_id": 80
+  },
+  {
+    "id": 166,
+    "name": "Total 3rdgeneration process improvement",
+    "code": "AI429",
+    "description": "This course covers fundamentals of him in AI department.",
+    "credits": 2,
+    "department": "AI",
+    "prerequisites": [
+      117
+    ],
+    "faculty_id": 55
+  },
+  {
+    "id": 167,
+    "name": "Pre-emptive heuristic standardization",
+    "code": "SM438",
+    "description": "This course covers fundamentals of usually in Smart Manufacturing department.",
+    "credits": 2,
+    "department": "Smart Manufacturing",
+    "prerequisites": [
+      102,
+      114,
+      120
+    ],
+    "faculty_id": 75
+  },
+  {
+    "id": 168,
+    "name": "Balanced content-based orchestration",
+    "code": "CS299",
+    "description": "This course covers fundamentals of rule in CSE department.",
+    "credits": 3,
+    "department": "CSE",
+    "prerequisites": [
+      110,
+      113
+    ],
+    "faculty_id": 11
+  },
+  {
+    "id": 169,
+    "name": "Quality-focused full-range workforce",
+    "code": "SM299",
+    "description": "This course covers fundamentals of simple in Smart Manufacturing department.",
+    "credits": 3,
+    "department": "Smart Manufacturing",
+    "prerequisites": [],
+    "faculty_id": 68
+  },
+  {
+    "id": 170,
+    "name": "Organic transitional encryption",
+    "code": "EC191",
+    "description": "This course covers fundamentals of too in ECE department.",
+    "credits": 3,
+    "department": "ECE",
+    "prerequisites": [],
+    "faculty_id": 38
+  },
+  {
+    "id": 171,
+    "name": "Networked user-facing installation",
+    "code": "AI105",
+    "description": "This course covers fundamentals of all in AI department.",
+    "credits": 2,
+    "department": "AI",
+    "prerequisites": [
+      103,
+      106
+    ],
+    "faculty_id": 54
+  },
+  {
+    "id": 172,
+    "name": "Devolved client-server moratorium",
+    "code": "AI174",
+    "description": "This course covers fundamentals of which in AI department.",
+    "credits": 2,
+    "department": "AI",
+    "prerequisites": [],
+    "faculty_id": 83
+  },
+  {
+    "id": 173,
+    "name": "Total methodical protocol",
+    "code": "SM335",
+    "description": "This course covers fundamentals of table in Smart Manufacturing department.",
+    "credits": 2,
+    "department": "Smart Manufacturing",
+    "prerequisites": [],
+    "faculty_id": 32
+  },
+  {
+    "id": 174,
+    "name": "Monitored analyzing implementation",
+    "code": "SM322",
+    "description": "This course covers fundamentals of current in Smart Manufacturing department.",
+    "credits": 3,
+    "department": "Smart Manufacturing",
+    "prerequisites": [
+      101,
+      110
+    ],
+    "faculty_id": 61
+  },
+  {
+    "id": 175,
+    "name": "Phased scalable service-desk",
+    "code": "AI353",
+    "description": "This course covers fundamentals of quality in AI department.",
+    "credits": 3,
+    "department": "AI",
+    "prerequisites": [
+      110,
+      103,
+      115
+    ],
+    "faculty_id": 69
+  },
+  {
+    "id": 176,
+    "name": "Focused high-level core",
+    "code": "ME224",
+    "description": "This course covers fundamentals of push in Mechanical department.",
+    "credits": 2,
+    "department": "Mechanical",
+    "prerequisites": [
+      113,
+      108
+    ],
+    "faculty_id": 52
+  },
+  {
+    "id": 177,
+    "name": "Universal logistical protocol",
+    "code": "AI137",
+    "description": "This course covers fundamentals of stop in AI department.",
+    "credits": 4,
+    "department": "AI",
+    "prerequisites": [
+      111,
+      107,
+      107
+    ],
+    "faculty_id": 54
+  },
+  {
+    "id": 178,
+    "name": "Sharable user-facing extranet",
+    "code": "CS418",
+    "description": "This course covers fundamentals of language in CSE department.",
+    "credits": 2,
+    "department": "CSE",
+    "prerequisites": [
+      104,
+      103
+    ],
+    "faculty_id": 67
+  },
+  {
+    "id": 179,
+    "name": "Open-source systematic infrastructure",
+    "code": "AI192",
+    "description": "This course covers fundamentals of brother in AI department.",
+    "credits": 2,
+    "department": "AI",
+    "prerequisites": [],
+    "faculty_id": 62
+  },
+  {
+    "id": 180,
+    "name": "Customizable 5thgeneration groupware",
+    "code": "SM350",
+    "description": "This course covers fundamentals of audience in Smart Manufacturing department.",
+    "credits": 4,
+    "department": "Smart Manufacturing",
+    "prerequisites": [
+      119
+    ],
+    "faculty_id": 14
+  },
+  {
+    "id": 181,
+    "name": "Programmable homogeneous interface",
+    "code": "CS198",
+    "description": "This course covers fundamentals of check in CSE department.",
+    "credits": 2,
+    "department": "CSE",
+    "prerequisites": [],
+    "faculty_id": 43
+  },
+  {
+    "id": 182,
+    "name": "Progressive real-time Graphical User Interface",
+    "code": "SM318",
+    "description": "This course covers fundamentals of option in Smart Manufacturing department.",
+    "credits": 3,
+    "department": "Smart Manufacturing",
+    "prerequisites": [
+      113
+    ],
+    "faculty_id": 28
+  },
+  {
+    "id": 183,
+    "name": "Diverse high-level instruction set",
+    "code": "CS459",
+    "description": "This course covers fundamentals of particular in CSE department.",
+    "credits": 2,
+    "department": "CSE",
+    "prerequisites": [
+      117
+    ],
+    "faculty_id": 30
+  },
+  {
+    "id": 184,
+    "name": "Progressive fault-tolerant circuit",
+    "code": "ME289",
+    "description": "This course covers fundamentals of nearly in Mechanical department.",
+    "credits": 2,
+    "department": "Mechanical",
+    "prerequisites": [
+      117
+    ],
+    "faculty_id": 84
+  },
+  {
+    "id": 185,
+    "name": "Networked exuding capability",
+    "code": "EC485",
+    "description": "This course covers fundamentals of whatever in ECE department.",
+    "credits": 3,
+    "department": "ECE",
+    "prerequisites": [
+      120,
+      111,
+      117
+    ],
+    "faculty_id": 83
+  },
+  {
+    "id": 186,
+    "name": "Proactive system-worthy synergy",
+    "code": "ME191",
+    "description": "This course covers fundamentals of arrive in Mechanical department.",
+    "credits": 2,
+    "department": "Mechanical",
+    "prerequisites": [
+      117,
+      102
+    ],
+    "faculty_id": 7
+  },
+  {
+    "id": 187,
+    "name": "Stand-alone bi-directional protocol",
+    "code": "EC323",
+    "description": "This course covers fundamentals of appear in ECE department.",
+    "credits": 2,
+    "department": "ECE",
+    "prerequisites": [
+      108
+    ],
+    "faculty_id": 56
+  },
+  {
+    "id": 188,
+    "name": "Cloned homogeneous open architecture",
+    "code": "ME337",
+    "description": "This course covers fundamentals of occur in Mechanical department.",
+    "credits": 2,
+    "department": "Mechanical",
+    "prerequisites": [],
+    "faculty_id": 3
+  },
+  {
+    "id": 189,
+    "name": "Horizontal object-oriented strategy",
+    "code": "AI486",
+    "description": "This course covers fundamentals of bring in AI department.",
+    "credits": 2,
+    "department": "AI",
+    "prerequisites": [],
+    "faculty_id": 80
+  },
+  {
+    "id": 190,
+    "name": "Team-oriented national infrastructure",
+    "code": "SM491",
+    "description": "This course covers fundamentals of open in Smart Manufacturing department.",
+    "credits": 3,
+    "department": "Smart Manufacturing",
+    "prerequisites": [
+      115
+    ],
+    "faculty_id": 30
+  },
+  {
+    "id": 191,
+    "name": "Right-sized clear-thinking groupware",
+    "code": "ME479",
+    "description": "This course covers fundamentals of place in Mechanical department.",
+    "credits": 3,
+    "department": "Mechanical",
+    "prerequisites": [
+      101,
+      107
+    ],
+    "faculty_id": 14
+  },
+  {
+    "id": 192,
+    "name": "Devolved even-keeled methodology",
+    "code": "ME157",
+    "description": "This course covers fundamentals of likely in Mechanical department.",
+    "credits": 4,
+    "department": "Mechanical",
+    "prerequisites": [],
+    "faculty_id": 8
+  },
+  {
+    "id": 193,
+    "name": "Synergistic coherent complexity",
+    "code": "ME279",
+    "description": "This course covers fundamentals of face in Mechanical department.",
+    "credits": 2,
+    "department": "Mechanical",
+    "prerequisites": [
+      117
+    ],
+    "faculty_id": 65
+  },
+  {
+    "id": 194,
+    "name": "Reverse-engineered well-modulated paradigm",
+    "code": "ME417",
+    "description": "This course covers fundamentals of read in Mechanical department.",
+    "credits": 2,
+    "department": "Mechanical",
+    "prerequisites": [],
+    "faculty_id": 54
+  },
+  {
+    "id": 195,
+    "name": "Switchable 6thgeneration process improvement",
+    "code": "ME296",
+    "description": "This course covers fundamentals of national in Mechanical department.",
+    "credits": 3,
+    "department": "Mechanical",
+    "prerequisites": [
+      112,
+      113,
+      101
+    ],
+    "faculty_id": 93
+  },
+  {
+    "id": 196,
+    "name": "Decentralized system-worthy open system",
+    "code": "EC181",
+    "description": "This course covers fundamentals of make in ECE department.",
+    "credits": 2,
+    "department": "ECE",
+    "prerequisites": [
+      109,
+      102,
+      103
+    ],
+    "faculty_id": 18
+  },
+  {
+    "id": 197,
+    "name": "Automated content-based benchmark",
+    "code": "ME208",
+    "description": "This course covers fundamentals of population in Mechanical department.",
+    "credits": 4,
+    "department": "Mechanical",
+    "prerequisites": [
+      107,
+      118
+    ],
+    "faculty_id": 43
+  },
+  {
+    "id": 198,
+    "name": "Customer-focused reciprocal protocol",
+    "code": "SM120",
+    "description": "This course covers fundamentals of color in Smart Manufacturing department.",
+    "credits": 2,
+    "department": "Smart Manufacturing",
+    "prerequisites": [
+      106
+    ],
+    "faculty_id": 37
+  },
+  {
+    "id": 199,
+    "name": "Right-sized explicit methodology",
+    "code": "CS228",
+    "description": "This course covers fundamentals of late in CSE department.",
+    "credits": 3,
+    "department": "CSE",
+    "prerequisites": [
+      117,
+      120,
+      118
+    ],
+    "faculty_id": 100
+  },
+  {
+    "id": 200,
+    "name": "Optional asynchronous data-warehouse",
+    "code": "SM481",
+    "description": "This course covers fundamentals of way in Smart Manufacturing department.",
+    "credits": 4,
+    "department": "Smart Manufacturing",
+    "prerequisites": [],
+    "faculty_id": 12
+  },
+  {
+    "id": 502,
+    "name": "nowledge user",
+    "code": "AI299",
+    "description": "This course covers fundamentals of pull in AI department.",
+    "credits": 2,
+    "department": "AI",
+    "prerequisites": [],
+    "faculty_id": 63
+  }
+]

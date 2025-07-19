@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "first_name": "Diana",
+    "last_name": "Craig",
+    "email": "cassandra33@example.com",
+    "department": "AI",
+    "specialization": [
+      "Deep Learning",
+      "Neural Nets"
+    ],
+    "office_location": "Room 143",
+    "office_hours": "Tue/Tue 9:00-17:00"
+  },
+  {
+    "id": 2,
+    "first_name": "Christine",
+    "last_name": "Morris",
+    "email": "carrilloerik@example.org",
+    "department": "Mechanical",
+    "specialization": [
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "office_location": "Room 139",
+    "office_hours": "Fri/Wed 15:00-19:00"
+  },
+  {
+    "id": 3,
+    "first_name": "Colleen",
+    "last_name": "Horn",
+    "email": "vasquezdebra@example.net",
+    "department": "CSE",
+    "specialization": [
+      "DBMS",
+      "AI"
+    ],
+    "office_location": "Room 101",
+    "office_hours": "Mon/Mon 15:00-17:00"
+  },
+  {
+    "id": 4,
+    "first_name": "Ashley",
+    "last_name": "Thomas",
+    "email": "jonathan08@example.net",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Robotics",
+      "Automation"
+    ],
+    "office_location": "Room 128",
+    "office_hours": "Thu/Tue 15:00-20:00"
+  },
+  {
+    "id": 5,
+    "first_name": "Eugene",
+    "last_name": "Jones",
+    "email": "andrew15@example.org",
+    "department": "AI",
+    "specialization": [
+      "NLP",
+      "Deep Learning"
+    ],
+    "office_location": "Room 160",
+    "office_hours": "Mon/Tue 14:00-18:00"
+  },
+  {
+    "id": 6,
+    "first_name": "Kimberly",
+    "last_name": "Wagner",
+    "email": "smithstephanie@example.org",
+    "department": "CSE",
+    "specialization": [
+      "AI",
+      "DBMS"
+    ],
+    "office_location": "Room 189",
+    "office_hours": "Fri/Thu 12:00-18:00"
+  },
+  {
+    "id": 7,
+    "first_name": "Tina",
+    "last_name": "Vega",
+    "email": "christopherduran@example.com",
+    "department": "ECE",
+    "specialization": [
+      "VLSI",
+      "Embedded"
+    ],
+    "office_location": "Room 113",
+    "office_hours": "Thu/Tue 12:00-17:00"
+  },
+  {
+    "id": 8,
+    "first_name": "Kathy",
+    "last_name": "Foley",
+    "email": "psmith@example.com",
+    "department": "AI",
+    "specialization": [
+      "Neural Nets",
+      "Deep Learning"
+    ],
+    "office_location": "Room 158",
+    "office_hours": "Fri/Mon 15:00-17:00"
+  },
+  {
+    "id": 9,
+    "first_name": "William",
+    "last_name": "Hines",
+    "email": "johnsonanthony@example.org",
+    "department": "AI",
+    "specialization": [
+      "NLP",
+      "Deep Learning"
+    ],
+    "office_location": "Room 150",
+    "office_hours": "Mon/Wed 12:00-19:00"
+  },
+  {
+    "id": 10,
+    "first_name": "Anna",
+    "last_name": "Elliott",
+    "email": "brandon97@example.net",
+    "department": "CSE",
+    "specialization": [
+      "AI",
+      "DBMS"
+    ],
+    "office_location": "Room 102",
+    "office_hours": "Tue/Tue 9:00-18:00"
+  },
+  {
+    "id": 11,
+    "first_name": "Tara",
+    "last_name": "Williams",
+    "email": "christine15@example.com",
+    "department": "CSE",
+    "specialization": [
+      "ML",
+      "Security"
+    ],
+    "office_location": "Room 170",
+    "office_hours": "Tue/Fri 12:00-19:00"
+  },
+  {
+    "id": 12,
+    "first_name": "Jessica",
+    "last_name": "Williamson",
+    "email": "carterfelicia@example.net",
+    "department": "ECE",
+    "specialization": [
+      "Embedded",
+      "Signal Processing"
+    ],
+    "office_location": "Room 169",
+    "office_hours": "Tue/Fri 10:00-17:00"
+  },
+  {
+    "id": 13,
+    "first_name": "Jon",
+    "last_name": "White",
+    "email": "hhernandez@example.net",
+    "department": "CSE",
+    "specialization": [
+      "ML",
+      "AI"
+    ],
+    "office_location": "Room 165",
+    "office_hours": "Fri/Mon 14:00-18:00"
+  },
+  {
+    "id": 14,
+    "first_name": "Hannah",
+    "last_name": "Martinez",
+    "email": "kroberts@example.com",
+    "department": "CSE",
+    "specialization": [
+      "DBMS",
+      "ML"
+    ],
+    "office_location": "Room 177",
+    "office_hours": "Mon/Mon 16:00-19:00"
+  },
+  {
+    "id": 15,
+    "first_name": "Jeremy",
+    "last_name": "James",
+    "email": "mannashley@example.com",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "3D Printing",
+      "Robotics"
+    ],
+    "office_location": "Room 155",
+    "office_hours": "Wed/Mon 10:00-19:00"
+  },
+  {
+    "id": 16,
+    "first_name": "Jeremy",
+    "last_name": "Guerrero",
+    "email": "bakerjonathan@example.com",
+    "department": "Mechanical",
+    "specialization": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "office_location": "Room 187",
+    "office_hours": "Fri/Thu 11:00-18:00"
+  },
+  {
+    "id": 17,
+    "first_name": "Francisco",
+    "last_name": "Clark",
+    "email": "morenodorothy@example.org",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Robotics",
+      "3D Printing"
+    ],
+    "office_location": "Room 133",
+    "office_hours": "Fri/Thu 14:00-18:00"
+  },
+  {
+    "id": 18,
+    "first_name": "Brian",
+    "last_name": "Chavez",
+    "email": "toni97@example.org",
+    "department": "AI",
+    "specialization": [
+      "NLP",
+      "Neural Nets"
+    ],
+    "office_location": "Room 103",
+    "office_hours": "Mon/Fri 16:00-19:00"
+  },
+  {
+    "id": 19,
+    "first_name": "Janet",
+    "last_name": "Williams",
+    "email": "mejiarodney@example.com",
+    "department": "Mechanical",
+    "specialization": [
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "office_location": "Room 145",
+    "office_hours": "Tue/Wed 9:00-19:00"
+  },
+  {
+    "id": 20,
+    "first_name": "Cynthia",
+    "last_name": "Mora",
+    "email": "pateljason@example.net",
+    "department": "ECE",
+    "specialization": [
+      "Embedded",
+      "Signal Processing"
+    ],
+    "office_location": "Room 170",
+    "office_hours": "Wed/Wed 11:00-20:00"
+  },
+  {
+    "id": 21,
+    "first_name": "Alan",
+    "last_name": "Wheeler",
+    "email": "jacoblewis@example.org",
+    "department": "ECE",
+    "specialization": [
+      "Embedded",
+      "Signal Processing"
+    ],
+    "office_location": "Room 103",
+    "office_hours": "Wed/Mon 13:00-19:00"
+  },
+  {
+    "id": 22,
+    "first_name": "Benjamin",
+    "last_name": "Eaton",
+    "email": "bellmaria@example.org",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Robotics",
+      "Automation"
+    ],
+    "office_location": "Room 176",
+    "office_hours": "Tue/Fri 15:00-19:00"
+  },
+  {
+    "id": 23,
+    "first_name": "Ashley",
+    "last_name": "Johnson",
+    "email": "kimberlywu@example.net",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Robotics",
+      "3D Printing"
+    ],
+    "office_location": "Room 184",
+    "office_hours": "Thu/Tue 13:00-19:00"
+  },
+  {
+    "id": 24,
+    "first_name": "Anthony",
+    "last_name": "Woods",
+    "email": "rscott@example.org",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Robotics",
+      "Automation"
+    ],
+    "office_location": "Room 120",
+    "office_hours": "Fri/Thu 11:00-17:00"
+  },
+  {
+    "id": 25,
+    "first_name": "Trevor",
+    "last_name": "King",
+    "email": "dudleymichele@example.com",
+    "department": "ECE",
+    "specialization": [
+      "Embedded",
+      "Signal Processing"
+    ],
+    "office_location": "Room 185",
+    "office_hours": "Fri/Mon 9:00-17:00"
+  },
+  {
+    "id": 26,
+    "first_name": "Jon",
+    "last_name": "Young",
+    "email": "tleonard@example.net",
+    "department": "Mechanical",
+    "specialization": [
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "office_location": "Room 186",
+    "office_hours": "Fri/Fri 12:00-17:00"
+  },
+  {
+    "id": 27,
+    "first_name": "Elizabeth",
+    "last_name": "Romero",
+    "email": "hwallace@example.net",
+    "department": "CSE",
+    "specialization": [
+      "AI",
+      "DBMS"
+    ],
+    "office_location": "Room 176",
+    "office_hours": "Mon/Fri 11:00-19:00"
+  },
+  {
+    "id": 28,
+    "first_name": "Matthew",
+    "last_name": "Scott",
+    "email": "cpeterson@example.org",
+    "department": "CSE",
+    "specialization": [
+      "AI",
+      "Security"
+    ],
+    "office_location": "Room 166",
+    "office_hours": "Mon/Thu 12:00-18:00"
+  },
+  {
+    "id": 29,
+    "first_name": "Rebecca",
+    "last_name": "Liu",
+    "email": "ebony42@example.org",
+    "department": "Mechanical",
+    "specialization": [
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "office_location": "Room 141",
+    "office_hours": "Fri/Fri 14:00-19:00"
+  },
+  {
+    "id": 30,
+    "first_name": "Linda",
+    "last_name": "Smith",
+    "email": "jason55@example.org",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "3D Printing",
+      "Automation"
+    ],
+    "office_location": "Room 185",
+    "office_hours": "Fri/Fri 13:00-19:00"
+  },
+  {
+    "id": 31,
+    "first_name": "Maria",
+    "last_name": "Watkins",
+    "email": "savannah82@example.net",
+    "department": "Mechanical",
+    "specialization": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "office_location": "Room 135",
+    "office_hours": "Wed/Tue 11:00-18:00"
+  },
+  {
+    "id": 32,
+    "first_name": "Tracy",
+    "last_name": "Jones",
+    "email": "belinda94@example.com",
+    "department": "ECE",
+    "specialization": [
+      "Signal Processing",
+      "VLSI"
+    ],
+    "office_location": "Room 191",
+    "office_hours": "Wed/Tue 15:00-17:00"
+  },
+  {
+    "id": 33,
+    "first_name": "Jennifer",
+    "last_name": "Walker",
+    "email": "stonebrian@example.net",
+    "department": "ECE",
+    "specialization": [
+      "Embedded",
+      "Signal Processing"
+    ],
+    "office_location": "Room 129",
+    "office_hours": "Thu/Tue 15:00-20:00"
+  },
+  {
+    "id": 34,
+    "first_name": "Aaron",
+    "last_name": "Love",
+    "email": "vanessahughes@example.com",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Automation",
+      "Robotics"
+    ],
+    "office_location": "Room 167",
+    "office_hours": "Fri/Wed 16:00-18:00"
+  },
+  {
+    "id": 35,
+    "first_name": "Melanie",
+    "last_name": "Griffin",
+    "email": "umyers@example.org",
+    "department": "Mechanical",
+    "specialization": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "office_location": "Room 160",
+    "office_hours": "Tue/Mon 14:00-17:00"
+  },
+  {
+    "id": 36,
+    "first_name": "Allen",
+    "last_name": "Anderson",
+    "email": "mary12@example.com",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "3D Printing",
+      "Automation"
+    ],
+    "office_location": "Room 134",
+    "office_hours": "Wed/Mon 13:00-20:00"
+  },
+  {
+    "id": 37,
+    "first_name": "Cindy",
+    "last_name": "Nguyen",
+    "email": "brianna67@example.net",
+    "department": "Mechanical",
+    "specialization": [
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "office_location": "Room 144",
+    "office_hours": "Mon/Thu 16:00-19:00"
+  },
+  {
+    "id": 38,
+    "first_name": "Kristen",
+    "last_name": "Williams",
+    "email": "richardmorris@example.org",
+    "department": "Mechanical",
+    "specialization": [
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "office_location": "Room 124",
+    "office_hours": "Wed/Mon 15:00-20:00"
+  },
+  {
+    "id": 39,
+    "first_name": "James",
+    "last_name": "Savage",
+    "email": "ozimmerman@example.org",
+    "department": "AI",
+    "specialization": [
+      "Neural Nets",
+      "Deep Learning"
+    ],
+    "office_location": "Room 175",
+    "office_hours": "Mon/Thu 10:00-20:00"
+  },
+  {
+    "id": 40,
+    "first_name": "Jason",
+    "last_name": "Jones",
+    "email": "mkim@example.net",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Robotics",
+      "3D Printing"
+    ],
+    "office_location": "Room 155",
+    "office_hours": "Wed/Thu 10:00-20:00"
+  },
+  {
+    "id": 41,
+    "first_name": "Amy",
+    "last_name": "Wood",
+    "email": "kroach@example.net",
+    "department": "Mechanical",
+    "specialization": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "office_location": "Room 112",
+    "office_hours": "Tue/Tue 14:00-18:00"
+  },
+  {
+    "id": 42,
+    "first_name": "Ryan",
+    "last_name": "Jones",
+    "email": "sthompson@example.net",
+    "department": "ECE",
+    "specialization": [
+      "Embedded",
+      "Signal Processing"
+    ],
+    "office_location": "Room 194",
+    "office_hours": "Wed/Fri 16:00-20:00"
+  },
+  {
+    "id": 43,
+    "first_name": "Anthony",
+    "last_name": "Wilkinson",
+    "email": "wendybrooks@example.net",
+    "department": "Mechanical",
+    "specialization": [
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "office_location": "Room 150",
+    "office_hours": "Fri/Mon 14:00-20:00"
+  },
+  {
+    "id": 44,
+    "first_name": "Ebony",
+    "last_name": "Smith",
+    "email": "msmith@example.net",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Robotics",
+      "Automation"
+    ],
+    "office_location": "Room 121",
+    "office_hours": "Wed/Wed 10:00-18:00"
+  },
+  {
+    "id": 45,
+    "first_name": "Courtney",
+    "last_name": "Williams",
+    "email": "ystrickland@example.org",
+    "department": "Mechanical",
+    "specialization": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "office_location": "Room 124",
+    "office_hours": "Wed/Thu 16:00-19:00"
+  },
+  {
+    "id": 46,
+    "first_name": "Sharon",
+    "last_name": "Hutchinson",
+    "email": "justin01@example.net",
+    "department": "AI",
+    "specialization": [
+      "Deep Learning",
+      "Neural Nets"
+    ],
+    "office_location": "Room 115",
+    "office_hours": "Tue/Mon 14:00-20:00"
+  },
+  {
+    "id": 47,
+    "first_name": "Mary",
+    "last_name": "Herrera",
+    "email": "tannernichole@example.net",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "3D Printing",
+      "Robotics"
+    ],
+    "office_location": "Room 117",
+    "office_hours": "Thu/Thu 16:00-20:00"
+  },
+  {
+    "id": 48,
+    "first_name": "Tina",
+    "last_name": "Carter",
+    "email": "qwilliams@example.com",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Automation",
+      "Robotics"
+    ],
+    "office_location": "Room 187",
+    "office_hours": "Tue/Mon 11:00-20:00"
+  },
+  {
+    "id": 49,
+    "first_name": "Heather",
+    "last_name": "Barry",
+    "email": "andersonchristopher@example.org",
+    "department": "AI",
+    "specialization": [
+      "Neural Nets",
+      "Deep Learning"
+    ],
+    "office_location": "Room 197",
+    "office_hours": "Thu/Thu 13:00-18:00"
+  },
+  {
+    "id": 50,
+    "first_name": "Michael",
+    "last_name": "Rice",
+    "email": "smithjulia@example.com",
+    "department": "CSE",
+    "specialization": [
+      "ML",
+      "AI"
+    ],
+    "office_location": "Room 196",
+    "office_hours": "Fri/Fri 9:00-19:00"
+  },
+  {
+    "id": 51,
+    "first_name": "Steven",
+    "last_name": "Bennett",
+    "email": "porterheidi@example.net",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "3D Printing",
+      "Automation"
+    ],
+    "office_location": "Room 138",
+    "office_hours": "Tue/Tue 15:00-18:00"
+  },
+  {
+    "id": 52,
+    "first_name": "James",
+    "last_name": "Berry",
+    "email": "kelly03@example.net",
+    "department": "Mechanical",
+    "specialization": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "office_location": "Room 147",
+    "office_hours": "Fri/Mon 11:00-20:00"
+  },
+  {
+    "id": 53,
+    "first_name": "Mary",
+    "last_name": "Medina",
+    "email": "ktaylor@example.com",
+    "department": "CSE",
+    "specialization": [
+      "Security",
+      "ML"
+    ],
+    "office_location": "Room 130",
+    "office_hours": "Thu/Thu 13:00-20:00"
+  },
+  {
+    "id": 54,
+    "first_name": "Michael",
+    "last_name": "Richardson",
+    "email": "melissa95@example.net",
+    "department": "CSE",
+    "specialization": [
+      "ML",
+      "DBMS"
+    ],
+    "office_location": "Room 165",
+    "office_hours": "Thu/Fri 11:00-18:00"
+  },
+  {
+    "id": 55,
+    "first_name": "Valerie",
+    "last_name": "Davidson",
+    "email": "jburke@example.net",
+    "department": "CSE",
+    "specialization": [
+      "Security",
+      "ML"
+    ],
+    "office_location": "Room 110",
+    "office_hours": "Thu/Thu 14:00-20:00"
+  },
+  {
+    "id": 56,
+    "first_name": "Jessica",
+    "last_name": "Davis",
+    "email": "pricemarcus@example.net",
+    "department": "Mechanical",
+    "specialization": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "office_location": "Room 150",
+    "office_hours": "Tue/Thu 9:00-17:00"
+  },
+  {
+    "id": 57,
+    "first_name": "Austin",
+    "last_name": "Mckinney",
+    "email": "gonzalezphyllis@example.org",
+    "department": "ECE",
+    "specialization": [
+      "Signal Processing",
+      "VLSI"
+    ],
+    "office_location": "Room 197",
+    "office_hours": "Fri/Tue 15:00-17:00"
+  },
+  {
+    "id": 58,
+    "first_name": "Mikayla",
+    "last_name": "Tate",
+    "email": "qcastillo@example.net",
+    "department": "ECE",
+    "specialization": [
+      "Signal Processing",
+      "Embedded"
+    ],
+    "office_location": "Room 110",
+    "office_hours": "Tue/Wed 15:00-18:00"
+  },
+  {
+    "id": 59,
+    "first_name": "Peter",
+    "last_name": "Owens",
+    "email": "todd31@example.net",
+    "department": "CSE",
+    "specialization": [
+      "ML",
+      "DBMS"
+    ],
+    "office_location": "Room 160",
+    "office_hours": "Fri/Fri 11:00-17:00"
+  },
+  {
+    "id": 60,
+    "first_name": "Glenda",
+    "last_name": "Dodson",
+    "email": "michael59@example.org",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Automation",
+      "Robotics"
+    ],
+    "office_location": "Room 174",
+    "office_hours": "Tue/Fri 16:00-20:00"
+  },
+  {
+    "id": 61,
+    "first_name": "Wayne",
+    "last_name": "Jensen",
+    "email": "anna89@example.org",
+    "department": "CSE",
+    "specialization": [
+      "AI",
+      "ML"
+    ],
+    "office_location": "Room 159",
+    "office_hours": "Thu/Mon 10:00-18:00"
+  },
+  {
+    "id": 62,
+    "first_name": "Julia",
+    "last_name": "Miller",
+    "email": "morrisandrea@example.com",
+    "department": "AI",
+    "specialization": [
+      "Neural Nets",
+      "NLP"
+    ],
+    "office_location": "Room 140",
+    "office_hours": "Thu/Thu 12:00-17:00"
+  },
+  {
+    "id": 63,
+    "first_name": "Michael",
+    "last_name": "Dominguez",
+    "email": "dhoward@example.com",
+    "department": "Mechanical",
+    "specialization": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "office_location": "Room 190",
+    "office_hours": "Thu/Thu 16:00-20:00"
+  },
+  {
+    "id": 64,
+    "first_name": "Alyssa",
+    "last_name": "Allen",
+    "email": "markwheeler@example.org",
+    "department": "CSE",
+    "specialization": [
+      "Security",
+      "AI"
+    ],
+    "office_location": "Room 177",
+    "office_hours": "Tue/Fri 11:00-20:00"
+  },
+  {
+    "id": 65,
+    "first_name": "Dustin",
+    "last_name": "Brown",
+    "email": "elijahriley@example.com",
+    "department": "CSE",
+    "specialization": [
+      "DBMS",
+      "AI"
+    ],
+    "office_location": "Room 197",
+    "office_hours": "Thu/Tue 12:00-17:00"
+  },
+  {
+    "id": 66,
+    "first_name": "Cynthia",
+    "last_name": "Herrera",
+    "email": "wyattashley@example.net",
+    "department": "AI",
+    "specialization": [
+      "NLP",
+      "Neural Nets"
+    ],
+    "office_location": "Room 158",
+    "office_hours": "Mon/Thu 13:00-19:00"
+  },
+  {
+    "id": 67,
+    "first_name": "Peter",
+    "last_name": "Kaiser",
+    "email": "erica98@example.com",
+    "department": "CSE",
+    "specialization": [
+      "ML",
+      "AI"
+    ],
+    "office_location": "Room 183",
+    "office_hours": "Wed/Wed 11:00-17:00"
+  },
+  {
+    "id": 68,
+    "first_name": "Haley",
+    "last_name": "Grant",
+    "email": "daniel41@example.org",
+    "department": "Mechanical",
+    "specialization": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "office_location": "Room 125",
+    "office_hours": "Fri/Mon 14:00-20:00"
+  },
+  {
+    "id": 69,
+    "first_name": "David",
+    "last_name": "Boone",
+    "email": "sanderserica@example.org",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Robotics",
+      "3D Printing"
+    ],
+    "office_location": "Room 117",
+    "office_hours": "Mon/Wed 14:00-18:00"
+  },
+  {
+    "id": 70,
+    "first_name": "Marcia",
+    "last_name": "Boone",
+    "email": "otorres@example.com",
+    "department": "Mechanical",
+    "specialization": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "office_location": "Room 138",
+    "office_hours": "Thu/Mon 15:00-18:00"
+  },
+  {
+    "id": 71,
+    "first_name": "Francisco",
+    "last_name": "Russell",
+    "email": "josephkim@example.com",
+    "department": "ECE",
+    "specialization": [
+      "Signal Processing",
+      "Embedded"
+    ],
+    "office_location": "Room 144",
+    "office_hours": "Thu/Wed 16:00-20:00"
+  },
+  {
+    "id": 72,
+    "first_name": "Nicole",
+    "last_name": "Williams",
+    "email": "jenniferrubio@example.net",
+    "department": "Mechanical",
+    "specialization": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "office_location": "Room 101",
+    "office_hours": "Tue/Mon 12:00-17:00"
+  },
+  {
+    "id": 73,
+    "first_name": "William",
+    "last_name": "Jimenez",
+    "email": "brendabaker@example.net",
+    "department": "AI",
+    "specialization": [
+      "Deep Learning",
+      "Neural Nets"
+    ],
+    "office_location": "Room 193",
+    "office_hours": "Mon/Wed 13:00-17:00"
+  },
+  {
+    "id": 74,
+    "first_name": "Kerry",
+    "last_name": "Moore",
+    "email": "marvinjimenez@example.com",
+    "department": "Mechanical",
+    "specialization": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "office_location": "Room 182",
+    "office_hours": "Wed/Mon 16:00-20:00"
+  },
+  {
+    "id": 75,
+    "first_name": "Amanda",
+    "last_name": "Washington",
+    "email": "berrybruce@example.com",
+    "department": "CSE",
+    "specialization": [
+      "ML",
+      "AI"
+    ],
+    "office_location": "Room 134",
+    "office_hours": "Fri/Wed 16:00-19:00"
+  },
+  {
+    "id": 76,
+    "first_name": "James",
+    "last_name": "Payne",
+    "email": "sean99@example.net",
+    "department": "ECE",
+    "specialization": [
+      "Signal Processing",
+      "VLSI"
+    ],
+    "office_location": "Room 149",
+    "office_hours": "Mon/Fri 14:00-19:00"
+  },
+  {
+    "id": 77,
+    "first_name": "Roger",
+    "last_name": "Lewis",
+    "email": "taradunlap@example.net",
+    "department": "CSE",
+    "specialization": [
+      "DBMS",
+      "ML"
+    ],
+    "office_location": "Room 152",
+    "office_hours": "Mon/Thu 15:00-18:00"
+  },
+  {
+    "id": 78,
+    "first_name": "Marcus",
+    "last_name": "Jackson",
+    "email": "sotorobert@example.net",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Robotics",
+      "Automation"
+    ],
+    "office_location": "Room 121",
+    "office_hours": "Thu/Mon 14:00-20:00"
+  },
+  {
+    "id": 79,
+    "first_name": "Kimberly",
+    "last_name": "Moran",
+    "email": "gomeztracy@example.com",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Robotics",
+      "Automation"
+    ],
+    "office_location": "Room 103",
+    "office_hours": "Tue/Thu 13:00-19:00"
+  },
+  {
+    "id": 80,
+    "first_name": "Jacob",
+    "last_name": "Macias",
+    "email": "mbooth@example.org",
+    "department": "ECE",
+    "specialization": [
+      "VLSI",
+      "Signal Processing"
+    ],
+    "office_location": "Room 194",
+    "office_hours": "Tue/Wed 12:00-18:00"
+  },
+  {
+    "id": 81,
+    "first_name": "Karen",
+    "last_name": "Jackson",
+    "email": "awilliams@example.com",
+    "department": "CSE",
+    "specialization": [
+      "ML",
+      "AI"
+    ],
+    "office_location": "Room 136",
+    "office_hours": "Fri/Mon 16:00-18:00"
+  },
+  {
+    "id": 82,
+    "first_name": "Janice",
+    "last_name": "Henry",
+    "email": "patricia69@example.org",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Automation",
+      "3D Printing"
+    ],
+    "office_location": "Room 108",
+    "office_hours": "Tue/Thu 16:00-18:00"
+  },
+  {
+    "id": 83,
+    "first_name": "Roger",
+    "last_name": "Taylor",
+    "email": "christopher30@example.org",
+    "department": "AI",
+    "specialization": [
+      "Neural Nets",
+      "Deep Learning"
+    ],
+    "office_location": "Room 198",
+    "office_hours": "Wed/Fri 12:00-20:00"
+  },
+  {
+    "id": 84,
+    "first_name": "Marco",
+    "last_name": "Perry",
+    "email": "parias@example.net",
+    "department": "CSE",
+    "specialization": [
+      "DBMS",
+      "ML"
+    ],
+    "office_location": "Room 188",
+    "office_hours": "Thu/Mon 11:00-17:00"
+  },
+  {
+    "id": 85,
+    "first_name": "Michael",
+    "last_name": "Carter",
+    "email": "brittanyclark@example.net",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Automation",
+      "3D Printing"
+    ],
+    "office_location": "Room 189",
+    "office_hours": "Fri/Fri 14:00-20:00"
+  },
+  {
+    "id": 86,
+    "first_name": "Lauren",
+    "last_name": "Novak",
+    "email": "stevenssharon@example.org",
+    "department": "ECE",
+    "specialization": [
+      "Signal Processing",
+      "VLSI"
+    ],
+    "office_location": "Room 125",
+    "office_hours": "Tue/Thu 14:00-19:00"
+  },
+  {
+    "id": 87,
+    "first_name": "Charles",
+    "last_name": "Cannon",
+    "email": "riggsdouglas@example.net",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "3D Printing",
+      "Automation"
+    ],
+    "office_location": "Room 128",
+    "office_hours": "Tue/Mon 15:00-17:00"
+  },
+  {
+    "id": 88,
+    "first_name": "Andrew",
+    "last_name": "Mckenzie",
+    "email": "awalker@example.net",
+    "department": "AI",
+    "specialization": [
+      "Neural Nets",
+      "Deep Learning"
+    ],
+    "office_location": "Room 124",
+    "office_hours": "Thu/Thu 10:00-17:00"
+  },
+  {
+    "id": 89,
+    "first_name": "Caleb",
+    "last_name": "Taylor",
+    "email": "patricklittle@example.net",
+    "department": "Mechanical",
+    "specialization": [
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "office_location": "Room 193",
+    "office_hours": "Fri/Wed 12:00-18:00"
+  },
+  {
+    "id": 90,
+    "first_name": "Jennifer",
+    "last_name": "Wilkinson",
+    "email": "squinn@example.net",
+    "department": "Smart Manufacturing",
+    "specialization": [
+      "Automation",
+      "3D Printing"
+    ],
+    "office_location": "Room 148",
+    "office_hours": "Thu/Wed 14:00-18:00"
+  },
+  {
+    "id": 91,
+    "first_name": "Susan",
+    "last_name": "Walker",
+    "email": "rebecca98@example.com",
+    "department": "Mechanical",
+    "specialization": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "office_location": "Room 151",
+    "office_hours": "Mon/Fri 14:00-20:00"
+  },
+  {
+    "id": 92,
+    "first_name": "Linda",
+    "last_name": "Johnson",
+    "email": "woodstara@example.com",
+    "department": "AI",
+    "specialization": [
+      "Neural Nets",
+      "NLP"
+    ],
+    "office_location": "Room 156",
+    "office_hours": "Mon/Thu 10:00-19:00"
+  },
+  {
+    "id": 93,
+    "first_name": "Sarah",
+    "last_name": "Fox",
+    "email": "sbarber@example.org",
+    "department": "Mechanical",
+    "specialization": [
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "office_location": "Room 153",
+    "office_hours": "Mon/Thu 9:00-17:00"
+  },
+  {
+    "id": 94,
+    "first_name": "Cynthia",
+    "last_name": "Saunders",
+    "email": "eric50@example.com",
+    "department": "AI",
+    "specialization": [
+      "Neural Nets",
+      "NLP"
+    ],
+    "office_location": "Room 197",
+    "office_hours": "Mon/Thu 10:00-18:00"
+  },
+  {
+    "id": 95,
+    "first_name": "Matthew",
+    "last_name": "Williams",
+    "email": "alejandra77@example.com",
+    "department": "CSE",
+    "specialization": [
+      "Security",
+      "DBMS"
+    ],
+    "office_location": "Room 197",
+    "office_hours": "Wed/Tue 12:00-19:00"
+  },
+  {
+    "id": 96,
+    "first_name": "Charles",
+    "last_name": "Phillips",
+    "email": "samanthacampbell@example.net",
+    "department": "Mechanical",
+    "specialization": [
+      "Thermodynamics",
+      "Fluid Mechanics"
+    ],
+    "office_location": "Room 105",
+    "office_hours": "Mon/Thu 14:00-20:00"
+  },
+  {
+    "id": 97,
+    "first_name": "Brian",
+    "last_name": "Rogers",
+    "email": "william96@example.org",
+    "department": "Mechanical",
+    "specialization": [
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "office_location": "Room 114",
+    "office_hours": "Wed/Tue 9:00-20:00"
+  },
+  {
+    "id": 98,
+    "first_name": "Amy",
+    "last_name": "Lawson",
+    "email": "sharonfischer@example.com",
+    "department": "ECE",
+    "specialization": [
+      "Embedded",
+      "VLSI"
+    ],
+    "office_location": "Room 155",
+    "office_hours": "Wed/Fri 12:00-20:00"
+  },
+  {
+    "id": 99,
+    "first_name": "Michelle",
+    "last_name": "Henry",
+    "email": "thorntonjennifer@example.org",
+    "department": "AI",
+    "specialization": [
+      "Neural Nets",
+      "Deep Learning"
+    ],
+    "office_location": "Room 106",
+    "office_hours": "Thu/Fri 15:00-18:00"
+  },
+  {
+    "id": 100,
+    "first_name": "Charles",
+    "last_name": "Holt",
+    "email": "kimberly26@example.org",
+    "department": "CSE",
+    "specialization": [
+      "DBMS",
+      "ML"
+    ],
+    "office_location": "Room 129",
+    "office_hours": "Mon/Mon 12:00-19:00"
+  }
+]
