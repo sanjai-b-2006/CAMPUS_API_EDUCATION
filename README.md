@@ -2,6 +2,8 @@
 
 A FastAPI-powered REST API for managing and analyzing college course and faculty data, complete with smart search, analytics, and auto-generated documentation.
 
+Demo video with code explanation : https://drive.google.com/file/d/1xU_cQV5lbmvYJAaCysbjodL4kkLdON53/view?usp=drivesdk
+
 **For your kind info ppt and doc are different and content vary so plz read both**
 
 Document : https://github.com/sanjai-b-2006/CAMPUS_API_EDUCATION/blob/eae9b03911cf3436e33e6d336967d23ffa53d787/DOC_CAMPUS_API.md
